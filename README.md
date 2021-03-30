@@ -9,4 +9,4 @@ Si raspa una página respetuosamente con fines educativos, es poco probable que 
 ---  
 
 ## Notebook:  
-[web_scraper](https://nbviewer.jupyter.org/github/luishernand/web_scrapping/blob/main/Web%20Scraping.ipynb)
+1. [web_scraper](https://nbviewer.jupyter.org/github/luishernand/web_scrapping/blob/main/Web%20Scraping.ipynb)
